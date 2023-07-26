@@ -1,0 +1,14 @@
+.label {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.input {
+    margin-top: 5px;
+    padding: 2px;
+    display: block;
+}
+
+.input:focus {
+    box-shadow: 0px 0px 2px 3px rgba(70, 128, 235, 1);
+  }
